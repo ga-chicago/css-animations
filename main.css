@@ -3,14 +3,14 @@
 }
 #greeting {
 	width: 400px;
-    height: 400px;
-    background: #332532;
-    border: 8px solid #F77A52;
-    color: #F77A52;
-    font-family: 'Shrikhand', cursive;
-    font-size: 70px;
-    padding: 40px;
-    text-align: left;
+  height: 400px;
+  background: #332532;
+  border: 8px solid #F77A52;
+  color: #F77A52;
+  font-family: 'Shrikhand', cursive;
+  font-size: 70px;
+  padding: 40px;
+  text-align: left;
 }
 #greeting:hover {
 	width: 600px;
@@ -24,8 +24,3 @@
 	padding: 200px 60px 60px 60px;
 	text-align: right;
 }
-
-
-
-
-
