@@ -6,7 +6,6 @@
 - Use CSS Transitions to animate elements
 - Use CSS Animations to create detailed animations
 - Describe the importance of prefixing CSS properties
-- Compare & contrast using CSS and JS for animations
 
 ## Intro
 
